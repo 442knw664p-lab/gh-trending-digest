@@ -3879,5 +3879,52 @@
         "reason": "Anthropic官方OSS扫描工具，对开源合规有实用价值"
       }
     ]
+  },
+  {
+    "date": "2026-10-11",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1411491009,
+        "full_name": "zeusinsight/FinderSearch",
+        "html_url": "https://github.com/zeusinsight/FinderSearch",
+        "stars": 580,
+        "score": 4,
+        "reason": "macOS原生模糊文件名搜索工具，实用"
+      },
+      {
+        "id": 1413187188,
+        "full_name": "marclou/mailcheap",
+        "html_url": "https://github.com/marclou/mailcheap",
+        "stars": 572,
+        "score": 4,
+        "reason": "基于SES的自托管邮件订阅，成本低有实用价值"
+      },
+      {
+        "id": 1413021530,
+        "full_name": "rociiu/talorys",
+        "html_url": "https://github.com/rociiu/talorys",
+        "stars": 491,
+        "score": 4,
+        "reason": "Cloudflare上的个人AI agent，一键部署实用"
+      },
+      {
+        "id": 1409806011,
+        "full_name": "tcchen2026/VibeOffice",
+        "html_url": "https://github.com/tcchen2026/VibeOffice",
+        "stars": 459,
+        "score": 4,
+        "reason": "浏览器内运行的免费Office套件，本地处理隐私友好"
+      },
+      {
+        "id": 1410929004,
+        "full_name": "ARahim3/DigUp",
+        "html_url": "https://github.com/ARahim3/DigUp",
+        "stars": 306,
+        "score": 4,
+        "reason": "基于本地嵌入模型的Mac文件内容搜索，实用"
+      }
+    ]
   }
 ]
