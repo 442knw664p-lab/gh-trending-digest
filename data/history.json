@@ -4013,5 +4013,92 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1412969368,
+        "full_name": "c22dev/muguet",
+        "html_url": "https://github.com/c22dev/muguet",
+        "stars": 443,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1413164360,
+        "full_name": "npwitk/Macintosh-Skeletal-Filled",
+        "html_url": "https://github.com/npwitk/Macintosh-Skeletal-Filled",
+        "stars": 412,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411935607,
+        "full_name": "CoralFireRadial/StartAll-Back",
+        "html_url": "https://github.com/CoralFireRadial/StartAll-Back",
+        "stars": 409,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411916116,
+        "full_name": "PatchTechnician/Ads-Blocker",
+        "html_url": "https://github.com/PatchTechnician/Ads-Blocker",
+        "stars": 408,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411937882,
+        "full_name": "photonrajditch/Windows-Optimizer",
+        "html_url": "https://github.com/photonrajditch/Windows-Optimizer",
+        "stars": 405,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411923855,
+        "full_name": "TremorBisonSurvive/Discord-Nitro-Generator",
+        "html_url": "https://github.com/TremorBisonSurvive/Discord-Nitro-Generator",
+        "stars": 404,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1412374584,
+        "full_name": "attowarriorbond/SolidWorks-CAD",
+        "html_url": "https://github.com/attowarriorbond/SolidWorks-CAD",
+        "stars": 310,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411929925,
+        "full_name": "ParrotStaple/Microsoft-Office",
+        "html_url": "https://github.com/ParrotStaple/Microsoft-Office",
+        "stars": 305,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411929931,
+        "full_name": "HoopoeConnector/Microsoft-Project",
+        "html_url": "https://github.com/HoopoeConnector/Microsoft-Project",
+        "stars": 304,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1412374577,
+        "full_name": "Paceclomooring/Adobe-Substance-3d",
+        "html_url": "https://github.com/Paceclomooring/Adobe-Substance-3d",
+        "stars": 303,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
