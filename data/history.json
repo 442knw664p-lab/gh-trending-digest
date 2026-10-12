@@ -3926,5 +3926,92 @@
         "reason": "基于本地嵌入模型的Mac文件内容搜索，实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1412548284,
+        "full_name": "storytold/craft-launcher",
+        "html_url": "https://github.com/storytold/craft-launcher",
+        "stars": 1274,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1412360690,
+        "full_name": "n1tr00-10/tiktok-web-signature",
+        "html_url": "https://github.com/n1tr00-10/tiktok-web-signature",
+        "stars": 710,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411928195,
+        "full_name": "KindStatesman/KMS-Pico",
+        "html_url": "https://github.com/KindStatesman/KMS-Pico",
+        "stars": 614,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411923912,
+        "full_name": "VarnishSerpentBurn/Discord-Quest-Completer",
+        "html_url": "https://github.com/VarnishSerpentBurn/Discord-Quest-Completer",
+        "stars": 611,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411923932,
+        "full_name": "navyofficerpipe/Discord-Server-Raider",
+        "html_url": "https://github.com/navyofficerpipe/Discord-Server-Raider",
+        "stars": 605,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1413898431,
+        "full_name": "liseami/CCBaga",
+        "html_url": "https://github.com/liseami/CCBaga",
+        "stars": 556,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411916169,
+        "full_name": "passrhymegazebo/AnyUnlock",
+        "html_url": "https://github.com/passrhymegazebo/AnyUnlock",
+        "stars": 513,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411923967,
+        "full_name": "Clawfitzfilter/Display-Fusion",
+        "html_url": "https://github.com/Clawfitzfilter/Display-Fusion",
+        "stars": 509,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411936012,
+        "full_name": "powderdiverpillar/Total-Commander",
+        "html_url": "https://github.com/powderdiverpillar/Total-Commander",
+        "stars": 504,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1411918293,
+        "full_name": "hyperrobinclash/Better-Discord",
+        "html_url": "https://github.com/hyperrobinclash/Better-Discord",
+        "stars": 503,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
