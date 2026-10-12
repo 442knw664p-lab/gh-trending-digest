@@ -7,17 +7,17 @@ ZHIPU_API = "https://open.bigmodel.cn/api/paas/v4/chat/completions"
 
 
 def _build_prompt(repos: list[dict]) -> str:
-        """Build prompt asking AI to score each repo."""
-        repo_list = []
-        for i, r in enumerate(repos, 1):
-                    desc = r["description"][:200] if r["description"] else "无描述"
-                    topics = ", ".join(r["topics"][:5]) if r["topics"] else "无"
-                    repo_list.append(
-                        f"{i}. [{r['full_name']}]({r['html_url']})\n"
-                        f"   描述: {desc}\n"
-                        f"   语言: {r['language']} | Stars: {r['stars']} | Topics: {topics}"
-                    )
-                joined = "\n\n".join(repo_list)
+            """Build prompt asking AI to score each repo."""
+            repo_list = []
+            for i, r in enumerate(repos, 1):
+                            desc = r["description"][:200] if r["description"] else "无描述"
+                            topics = ", ".join(r["topics"][:5]) if r["topics"] else "无"
+                            repo_list.append(
+                                f"{i}. [{r['full_name']}]({r['html_url']})\n"
+                                f"   描述: {desc}\n"
+                                f"   语言: {r['language']} | Stars: {r['stars']} | Topics: {topics}"
+                            )
+                        joined = "\n\n".join(repo_list)
     return f"""你是GitHub工具审核专家。以下{len(repos)}个GitHub仓库，请筛选出真正实用的开发者工具。
     评分标准（1-5分）：
     - 5分：非常实用，开发者必备
@@ -36,32 +36,32 @@ def _build_prompt(repos: list[dict]) -> str:
 
 
 def filter_with_ai(repos: list[dict], api_key: str) -> list[dict]:
-        """Score repos with Zhipu GLM, return those scoring >= 4."""
+            """Score repos with Zhipu GLM, return those scoring >= 4."""
     if not repos:
-                return []
-            if not api_key:
-                        print("[filter] No Zhipu API key, falling back to star-sort")
-                        return filter_by_stars(repos)
-                    prompt = _build_prompt(repos)
-    try:
-                resp = requests.post(
-                                ZHIPU_API,
-                                headers={
-                                                    "Authorization": f"Bearer {api_key}",
-                                                    "Content-Type": "application/json",
-                                },
-                                json={
-                                                    "model": "glm-4-flash",
-                                                    "messages": [{"role": "user", "content": prompt}],
-                                                    "temperature": 0.3,
-                                                    "max_tokens": 2000,
-                                },
-                                timeout=30,
-                )
-                if resp.status_code != 200:
-                                print(f"[filter] Zhipu API error {resp.status_code}: {resp.text[:200]}")
+                    return []
+                if not api_key:
+                                print("[filter] No Zhipu API key, falling back to star-sort")
                                 return filter_by_stars(repos)
-                            content = resp.json()["choices"][0]["message"]["content"]
+                            prompt = _build_prompt(repos)
+    try:
+                    resp = requests.post(
+                                        ZHIPU_API,
+                                        headers={
+                                                                "Authorization": f"Bearer {api_key}",
+                                                                "Content-Type": "application/json",
+                                        },
+                                        json={
+                                                                "model": "glm-4-flash",
+                                                                "messages": [{"role": "user", "content": prompt}],
+                                                                "temperature": 0.3,
+                                                                "max_tokens": 2000,
+                                        },
+                                        timeout=30,
+                    )
+                    if resp.status_code != 200:
+                                        print(f"[filter] Zhipu API error {resp.status_code}: {resp.text[:200]}")
+                                        return filter_by_stars(repos)
+                                    content = resp.json()["choices"][0]["message"]["content"]
         scores = _parse_scores(content)
 except (requests.RequestException, KeyError, json.JSONDecodeError, TypeError) as e:
         print(f"[filter] AI filter failed: {e}, falling back to star-sort")
@@ -69,32 +69,32 @@ except (requests.RequestException, KeyError, json.JSONDecodeError, TypeError) as
 
     scored = []
     for s in scores:
-                idx = s["index"] - 1
+                    idx = s["index"] - 1
         if 0 <= idx < len(repos) and s["score"] >= 4:
-                        r = repos[idx].copy()
-                        r["score"] = s["score"]
-                        r["reason"] = s["reason"]
-                        scored.append(r)
-                scored.sort(key=lambda r: r["score"], reverse=True)
+                            r = repos[idx].copy()
+                            r["score"] = s["score"]
+                            r["reason"] = s["reason"]
+                            scored.append(r)
+                    scored.sort(key=lambda r: r["score"], reverse=True)
     print(f"[filter] AI scored {len(scores)} repos, {len(scored)} passed (>=4)")
     return scored
 
 
 def filter_by_stars(repos: list[dict], top_n: int = 10) -> list[dict]:
-        """Fallback: take top N repos by star count."""
+            """Fallback: take top N repos by star count."""
     sorted_repos = sorted(repos, key=lambda r: r["stars"], reverse=True)[:top_n]
     for r in sorted_repos:
-                r["score"] = 0
+                    r["score"] = 0
         r["reason"] = "Star排名自动入选（AI未评分）"
     return sorted_repos
 
 
 def _parse_scores(content: str) -> list[dict]:
-        """Parse AI response. Handle markdown code blocks if present."""
+            """Parse AI response. Handle markdown code blocks if present."""
     content = content.strip()
     if content.startswith("```"):
-                lines = content.split("\n")
+                    lines = content.split("\n")
         content = "\n".join(lines[1:]) if lines[0].startswith("```") else content
         if content.endswith("```"):
-                        content = content.rsplit("```", 1)[0]
-                return json.loads(content)
+                            content = content.rsplit("```", 1)[0]
+                    return json.loads(content)
