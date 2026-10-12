@@ -4100,5 +4100,28 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-10-12",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1411923908,
+        "full_name": "Blendtrabulwark/Discord-Server-Cloner",
+        "html_url": "https://github.com/Blendtrabulwark/Discord-Server-Cloner",
+        "stars": 302,
+        "score": 4,
+        "reason": "服务器管理工具"
+      },
+      {
+        "id": 1411922045,
+        "full_name": "Haircloboutique/Cubase",
+        "html_url": "https://github.com/Haircloboutique/Cubase",
+        "stars": 300,
+        "score": 4,
+        "reason": "音频制作工具"
+      }
+    ]
   }
 ]
