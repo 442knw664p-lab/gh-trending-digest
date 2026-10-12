@@ -25,9 +25,15 @@ def _build_prompt(repos: list[dict]) -> str:
 - 2分：不太实用，或文档不全
 - 1分：低质量/纯宣传/教程合集
 排除以下类型：面试题合集、教程文档、XX大全、Awesome-list、空壳项目。
+
+对每个项目，请返回：
+- score: 1-5分
+- summary: 用一句通顺的中文（30-60字）介绍这个项目是做什么的、解决什么问题，不要翻译原文，要用自己的话概括
+- reason: 一句话说明推荐理由（20字以内）
+
 只返回JSON数组，不要markdown代码块，不要其他文字：
 [
-  {{"index": 1, "score": 4, "reason": "简洁的一句中评语"}},
+  {{"index": 1, "score": 4, "summary": "xxx是一个用于xxx的xxx工具，可以帮助开发者xxx", "reason": "简洁的一句推荐理由"}},
   ...
 ]
 以下是仓库列表：
@@ -72,7 +78,8 @@ def filter_with_ai(repos: list[dict], api_key: str) -> list[dict]:
         if 0 <= idx < len(repos) and s["score"] >= 4:
             r = repos[idx].copy()
             r["score"] = s["score"]
-            r["reason"] = s["reason"]
+            r["summary"] = s.get("summary", "")
+            r["reason"] = s.get("reason", "")
             scored.append(r)
     scored.sort(key=lambda r: r["score"], reverse=True)
     print(f"[filter] AI scored {len(scores)} repos, {len(scored)} passed (>=4)")
@@ -84,6 +91,7 @@ def filter_by_stars(repos: list[dict], top_n: int = 10) -> list[dict]:
     sorted_repos = sorted(repos, key=lambda r: r["stars"], reverse=True)[:top_n]
     for r in sorted_repos:
         r["score"] = 0
+        r["summary"] = r.get("description", "")
         r["reason"] = "Star排名自动入选（AI未评分）"
     return sorted_repos
 
