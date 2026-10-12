@@ -22,7 +22,7 @@ def _base_html(title: str, body: str) -> str:
     <p style="color:#999;font-size:12px;margin:0">
       GitHub Trending Digest — 自动化推送<br>
       数据来源: <a href="https://github.com/trending" style="color:#667eea">GitHub Trending</a> |
-      筛选: <a href="https://deepseek.com" style="color:#667eea">DeepSeek AI</a>
+      筛选: 智谱 GLM AI
     </p>
   </td></tr>
 </table>
@@ -35,6 +35,10 @@ def _repo_card(repo: dict, index: int) -> str:
     stars_badge = f"⭐ {repo['stars']:,}"
     lang_badge = f"🔧 {repo['language']}" if repo.get("language") else ""
     score_badge = f"📊 {repo.get('score', '?')}/5" if repo.get("score") else ""
+    summary = repo.get("summary", "") or repo.get("description", "")
+    reason = repo.get("reason", "")
+
+    reason_html = f'<p style="margin:4px 0 0;color:#667eea;font-size:13px">💡 {reason}</p>' if reason else ""
 
     return f"""
     <div style="border-bottom:1px solid #eee;padding:16px 0;margin:0">
@@ -42,7 +46,8 @@ def _repo_card(repo: dict, index: int) -> str:
         <span style="color:#999;font-weight:normal;margin-right:8px">#{index}</span>
         <a href="{repo['html_url']}" style="color:#1a1a2e;text-decoration:none">{repo['full_name']}</a>
       </h3>
-      <p style="margin:4px 0;color:#555;font-size:14px;line-height:1.5">{repo.get('reason', repo.get('description', ''))}</p>
+      <p style="margin:4px 0;color:#555;font-size:14px;line-height:1.6">{summary}</p>
+      {reason_html}
       <p style="margin:6px 0 0;color:#888;font-size:12px">
         {stars_badge} &nbsp; {lang_badge} &nbsp; {score_badge}
       </p>
