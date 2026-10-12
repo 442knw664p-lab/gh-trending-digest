@@ -61,7 +61,7 @@ def filter_with_ai(repos: list[dict], api_key: str) -> list[dict]:
                 "temperature": 0.3,
                 "max_tokens": 2000,
             },
-            timeout=30,
+            timeout=90,
         )
         if resp.status_code != 200:
             print(f"[filter] Zhipu API error {resp.status_code}: {resp.text[:200]}")
