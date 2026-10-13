@@ -4123,5 +4123,44 @@
         "reason": "音频制作工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-13",
+    "type": "daily",
+    "count": 4,
+    "repos": [
+      {
+        "id": 1415313946,
+        "full_name": "jhaizhou-ops/d2r-mobile",
+        "html_url": "https://github.com/jhaizhou-ops/d2r-mobile",
+        "stars": 719,
+        "score": 5,
+        "reason": "游戏兼容性工具"
+      },
+      {
+        "id": 1412573009,
+        "full_name": "shaongitbd/doory",
+        "html_url": "https://github.com/shaongitbd/doory",
+        "stars": 811,
+        "score": 4,
+        "reason": "提供图形设计功能"
+      },
+      {
+        "id": 1414685342,
+        "full_name": "onehumanbeing/esp32-iphone-agent",
+        "html_url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+        "stars": 656,
+        "score": 4,
+        "reason": "创新硬件应用"
+      },
+      {
+        "id": 1415214046,
+        "full_name": "zhuyansen/new-term-radar",
+        "html_url": "https://github.com/zhuyansen/new-term-radar",
+        "stars": 568,
+        "score": 4,
+        "reason": "AI领域信息追踪"
+      }
+    ]
   }
 ]
