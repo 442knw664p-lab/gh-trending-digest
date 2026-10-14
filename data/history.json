@@ -4162,5 +4162,76 @@
         "reason": "AI领域信息追踪"
       }
     ]
+  },
+  {
+    "date": "2026-10-14",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1416386910,
+        "full_name": "Arekejoker/qwen21-nsfw-pose-skill",
+        "html_url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+        "stars": 876,
+        "score": 4,
+        "reason": "适用于特定需求"
+      },
+      {
+        "id": 1416191565,
+        "full_name": "PS5Dev/Byepervisor-Reborn",
+        "html_url": "https://github.com/PS5Dev/Byepervisor-Reborn",
+        "stars": 358,
+        "score": 4,
+        "reason": "简化网站构建"
+      },
+      {
+        "id": 1417562342,
+        "full_name": "egotoadcitadel/palette-from-image-ai",
+        "html_url": "https://github.com/egotoadcitadel/palette-from-image-ai",
+        "stars": 303,
+        "score": 4,
+        "reason": "设计辅助工具"
+      },
+      {
+        "id": 1415358670,
+        "full_name": "deeplethe/solid-glass",
+        "html_url": "https://github.com/deeplethe/solid-glass",
+        "stars": 254,
+        "score": 4,
+        "reason": "AI应用设计"
+      },
+      {
+        "id": 1414339702,
+        "full_name": "wbr664393425-lgtm/scaffold-master",
+        "html_url": "https://github.com/wbr664393425-lgtm/scaffold-master",
+        "stars": 248,
+        "score": 4,
+        "reason": "快速开发后台系统"
+      },
+      {
+        "id": 1414107238,
+        "full_name": "tonyzedginidze/librecalculator",
+        "html_url": "https://github.com/tonyzedginidze/librecalculator",
+        "stars": 164,
+        "score": 4,
+        "reason": "多功能计算器"
+      },
+      {
+        "id": 1414354754,
+        "full_name": "SouravBeraAkaSpeed/xiryn",
+        "html_url": "https://github.com/SouravBeraAkaSpeed/xiryn",
+        "stars": 151,
+        "score": 4,
+        "reason": "个人代理工具"
+      },
+      {
+        "id": 1416220570,
+        "full_name": "AirsupHQ/machine-skill",
+        "html_url": "https://github.com/AirsupHQ/machine-skill",
+        "stars": 144,
+        "score": 4,
+        "reason": "机器描述工具"
+      }
+    ]
   }
 ]
