@@ -4233,5 +4233,68 @@
         "reason": "机器描述工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-15",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1417456983,
+        "full_name": "HeyPuter/everything",
+        "html_url": "https://github.com/HeyPuter/everything",
+        "stars": 769,
+        "score": 4,
+        "reason": "文件搜索实用"
+      },
+      {
+        "id": 1417411861,
+        "full_name": "CoolkHz/gptibo",
+        "html_url": "https://github.com/CoolkHz/gptibo",
+        "stars": 745,
+        "score": 4,
+        "reason": "自托管GPT工具"
+      },
+      {
+        "id": 1416766144,
+        "full_name": "outcrawlai/scout",
+        "html_url": "https://github.com/outcrawlai/scout",
+        "stars": 655,
+        "score": 4,
+        "reason": "浏览器自动化工具"
+      },
+      {
+        "id": 1414876018,
+        "full_name": "juliobsz/skills",
+        "html_url": "https://github.com/juliobsz/skills",
+        "stars": 339,
+        "score": 4,
+        "reason": "网站构建工具"
+      },
+      {
+        "id": 1416887041,
+        "full_name": "datalab-to/indra",
+        "html_url": "https://github.com/datalab-to/indra",
+        "stars": 227,
+        "score": 4,
+        "reason": "OCR工具"
+      },
+      {
+        "id": 1416692900,
+        "full_name": "i12bp8/decomp.wtf",
+        "html_url": "https://github.com/i12bp8/decomp.wtf",
+        "stars": 216,
+        "score": 4,
+        "reason": "游戏反编译工具"
+      },
+      {
+        "id": 1418878693,
+        "full_name": "0xProbabillity/house-control",
+        "html_url": "https://github.com/0xProbabillity/house-control",
+        "stars": 194,
+        "score": 4,
+        "reason": "智能家居控制工具"
+      }
+    ]
   }
 ]
