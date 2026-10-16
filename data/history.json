@@ -4296,5 +4296,36 @@
         "reason": "智能家居控制工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-16",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1419746236,
+        "full_name": "ahwootech/BRUTAL",
+        "html_url": "https://github.com/ahwootech/BRUTAL",
+        "stars": 1176,
+        "score": 5,
+        "reason": "游戏开发框架"
+      },
+      {
+        "id": 1420063501,
+        "full_name": "chenglou/handwired",
+        "html_url": "https://github.com/chenglou/handwired",
+        "stars": 1070,
+        "score": 4,
+        "reason": "神经网络工具"
+      },
+      {
+        "id": 1419078245,
+        "full_name": "Caho1/open-claude-ui",
+        "html_url": "https://github.com/Caho1/open-claude-ui",
+        "stars": 740,
+        "score": 4,
+        "reason": "版本控制工具"
+      }
+    ]
   }
 ]
