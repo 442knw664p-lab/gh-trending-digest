@@ -4327,5 +4327,76 @@
         "reason": "版本控制工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-17",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1420751050,
+        "full_name": "feder-cr/git-ai",
+        "html_url": "https://github.com/feder-cr/git-ai",
+        "stars": 1061,
+        "score": 5,
+        "reason": "专为AI代理设计，提高开发效率"
+      },
+      {
+        "id": 1419896415,
+        "full_name": "pro-vi/cc-stretch",
+        "html_url": "https://github.com/pro-vi/cc-stretch",
+        "stars": 342,
+        "score": 4,
+        "reason": "扩展回复长度，增强交互体验"
+      },
+      {
+        "id": 1420305104,
+        "full_name": "Leonxlnx/earshot",
+        "html_url": "https://github.com/Leonxlnx/earshot",
+        "stars": 337,
+        "score": 4,
+        "reason": "音频处理，增强AI交互"
+      },
+      {
+        "id": 1421389432,
+        "full_name": "anujasid/mcp-for-blender-pro",
+        "html_url": "https://github.com/anujasid/mcp-for-blender-pro",
+        "stars": 269,
+        "score": 4,
+        "reason": "集成多种AI模型，提高Blender自动化效率"
+      },
+      {
+        "id": 1418643214,
+        "full_name": "Entelligence-AI/agentplay",
+        "html_url": "https://github.com/Entelligence-AI/agentplay",
+        "stars": 223,
+        "score": 4,
+        "reason": "回放会话，分析AI代理行为"
+      },
+      {
+        "id": 1419693761,
+        "full_name": "CarterT27/scion",
+        "html_url": "https://github.com/CarterT27/scion",
+        "stars": 208,
+        "score": 4,
+        "reason": "实现版本控制系统，方便代码管理"
+      },
+      {
+        "id": 1418870464,
+        "full_name": "Graphicle-AI/graphicle",
+        "html_url": "https://github.com/Graphicle-AI/graphicle",
+        "stars": 195,
+        "score": 4,
+        "reason": "代码分析和内存管理，提高开发效率"
+      },
+      {
+        "id": 1418421680,
+        "full_name": "YOURSJEYO/claude-switcher",
+        "html_url": "https://github.com/YOURSJEYO/claude-switcher",
+        "stars": 194,
+        "score": 4,
+        "reason": "账号环境管理，保障安全"
+      }
+    ]
   }
 ]
