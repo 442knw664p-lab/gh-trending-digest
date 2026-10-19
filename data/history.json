@@ -4421,5 +4421,36 @@
         "reason": "高质量图像生成"
       }
     ]
+  },
+  {
+    "date": "2026-10-19",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1423101235,
+        "full_name": "Gathin23/tv-vibehack",
+        "html_url": "https://github.com/Gathin23/tv-vibehack",
+        "stars": 2051,
+        "score": 4,
+        "reason": "去除广告，提升体验"
+      },
+      {
+        "id": 1422883896,
+        "full_name": "aicodeking/leanrea",
+        "html_url": "https://github.com/aicodeking/leanrea",
+        "stars": 642,
+        "score": 4,
+        "reason": "替代传统RE工具，提升效率"
+      },
+      {
+        "id": 1424183124,
+        "full_name": "xiaoyang111222/cn-math-taxonomy",
+        "html_url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+        "stars": 356,
+        "score": 4,
+        "reason": "辅助学习和教学"
+      }
+    ]
   }
 ]
