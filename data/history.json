@@ -4452,5 +4452,28 @@
         "reason": "辅助学习和教学"
       }
     ]
+  },
+  {
+    "date": "2026-10-20",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1424340323,
+        "full_name": "alchaincyf/huashu-motion",
+        "html_url": "https://github.com/alchaincyf/huashu-motion",
+        "stars": 930,
+        "score": 4,
+        "reason": "提供商业级视频制作功能"
+      },
+      {
+        "id": 1424201691,
+        "full_name": "justrach/nanoui",
+        "html_url": "https://github.com/justrach/nanoui",
+        "stars": 329,
+        "score": 4,
+        "reason": "提供跨平台的桌面应用程序开发框架"
+      }
+    ]
   }
 ]
