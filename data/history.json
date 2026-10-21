@@ -4475,5 +4475,60 @@
         "reason": "提供跨平台的桌面应用程序开发框架"
       }
     ]
+  },
+  {
+    "date": "2026-10-21",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1426780056,
+        "full_name": "pengchujin/aerial-tv",
+        "html_url": "https://github.com/pengchujin/aerial-tv",
+        "stars": 720,
+        "score": 5,
+        "reason": "提供类似tvOS的桌面体验"
+      },
+      {
+        "id": 1426080579,
+        "full_name": "simbasjungles/free-my-tv",
+        "html_url": "https://github.com/simbasjungles/free-my-tv",
+        "stars": 1833,
+        "score": 4,
+        "reason": "专为Google TV优化"
+      },
+      {
+        "id": 1424070461,
+        "full_name": "Ansub/tv-detox",
+        "html_url": "https://github.com/Ansub/tv-detox",
+        "stars": 959,
+        "score": 4,
+        "reason": "加速旧款Android TV"
+      },
+      {
+        "id": 1426270002,
+        "full_name": "ELY-Open-Source/ElyOffice",
+        "html_url": "https://github.com/ELY-Open-Source/ElyOffice",
+        "stars": 594,
+        "score": 4,
+        "reason": "Rust语言开发"
+      },
+      {
+        "id": 1424399708,
+        "full_name": "interplains/zero-breach",
+        "html_url": "https://github.com/interplains/zero-breach",
+        "stars": 491,
+        "score": 4,
+        "reason": "网络安全工具"
+      },
+      {
+        "id": 1425658028,
+        "full_name": "Hugo-Dz/spritefusion-sprite-normals",
+        "html_url": "https://github.com/Hugo-Dz/spritefusion-sprite-normals",
+        "stars": 346,
+        "score": 4,
+        "reason": "游戏开发工具"
+      }
+    ]
   }
 ]
