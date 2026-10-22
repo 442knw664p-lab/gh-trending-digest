@@ -4530,5 +4530,52 @@
         "reason": "游戏开发工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-22",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1425063138,
+        "full_name": "opentrap/opentrap",
+        "html_url": "https://github.com/opentrap/opentrap",
+        "stars": 317,
+        "score": 5,
+        "reason": "Burp Suite替代品"
+      },
+      {
+        "id": 1426240325,
+        "full_name": "JoasASantos/REA-Prompts",
+        "html_url": "https://github.com/JoasASantos/REA-Prompts",
+        "stars": 1346,
+        "score": 4,
+        "reason": "提供逆向工程提示"
+      },
+      {
+        "id": 1427107663,
+        "full_name": "eagle-hq/EAGLE-4",
+        "html_url": "https://github.com/eagle-hq/EAGLE-4",
+        "stars": 732,
+        "score": 4,
+        "reason": "GPU加速的LLM推理代码"
+      },
+      {
+        "id": 1425469723,
+        "full_name": "UniXNU/UniXNU",
+        "html_url": "https://github.com/UniXNU/UniXNU",
+        "stars": 535,
+        "score": 4,
+        "reason": "跨平台运行iOS和macOS"
+      },
+      {
+        "id": 1425063397,
+        "full_name": "MemTensor/MemT-1.0",
+        "html_url": "https://github.com/MemTensor/MemT-1.0",
+        "stars": 280,
+        "score": 4,
+        "reason": "长期记忆AI代理"
+      }
+    ]
   }
 ]
