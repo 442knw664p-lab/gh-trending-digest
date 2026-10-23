@@ -4577,5 +4577,52 @@
         "reason": "长期记忆AI代理"
       }
     ]
+  },
+  {
+    "date": "2026-10-23",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1428058681,
+        "full_name": "ikow/php2shell-poc",
+        "html_url": "https://github.com/ikow/php2shell-poc",
+        "stars": 1532,
+        "score": 4,
+        "reason": "针对特定漏洞的利用研究"
+      },
+      {
+        "id": 1428268121,
+        "full_name": "9bie/php2shell-bypass-aslr-exp",
+        "html_url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+        "stars": 959,
+        "score": 4,
+        "reason": "提供无需修改的利用工具"
+      },
+      {
+        "id": 1428098303,
+        "full_name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+        "html_url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+        "stars": 894,
+        "score": 4,
+        "reason": "提供PoC利用工具"
+      },
+      {
+        "id": 1427489759,
+        "full_name": "torrentplayer/torrentplayer",
+        "html_url": "https://github.com/torrentplayer/torrentplayer",
+        "stars": 357,
+        "score": 4,
+        "reason": "提供流式传输种子文件的工具"
+      },
+      {
+        "id": 1429213407,
+        "full_name": "assetnote/php2shell-scanner",
+        "html_url": "https://github.com/assetnote/php2shell-scanner",
+        "stars": 299,
+        "score": 4,
+        "reason": "提供针对特定漏洞的扫描工具"
+      }
+    ]
   }
 ]
