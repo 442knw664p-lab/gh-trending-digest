@@ -4655,5 +4655,36 @@
         "reason": "提高优化效率"
       }
     ]
+  },
+  {
+    "date": "2026-10-25",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1431545439,
+        "full_name": "JustAResearcher/gpu-unlock-ada",
+        "html_url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+        "stars": 820,
+        "score": 4,
+        "reason": "动画制作工具"
+      },
+      {
+        "id": 1429712827,
+        "full_name": "wpfigfszroxn/pubg-external-esp",
+        "html_url": "https://github.com/wpfigfszroxn/pubg-external-esp",
+        "stars": 247,
+        "score": 4,
+        "reason": "AI服务接口"
+      },
+      {
+        "id": 1432115490,
+        "full_name": "songjianyang/xss-audit",
+        "html_url": "https://github.com/songjianyang/xss-audit",
+        "stars": 208,
+        "score": 4,
+        "reason": "代码解释工具"
+      }
+    ]
   }
 ]
