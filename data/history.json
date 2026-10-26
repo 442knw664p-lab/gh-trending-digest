@@ -4686,5 +4686,164 @@
         "reason": "代码解释工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-26",
+    "type": "daily",
+    "count": 19,
+    "repos": [
+      {
+        "id": 1431851693,
+        "full_name": "rddmwmddr/android-ad-cleaner",
+        "html_url": "https://github.com/rddmwmddr/android-ad-cleaner",
+        "stars": 850,
+        "score": 4,
+        "reason": "实用，减少广告干扰"
+      },
+      {
+        "id": 1430513158,
+        "full_name": "morganlinton/BeautifulRust",
+        "html_url": "https://github.com/morganlinton/BeautifulRust",
+        "stars": 742,
+        "score": 4,
+        "reason": "提升Rust代码质量"
+      },
+      {
+        "id": 1432875224,
+        "full_name": "mizorewww/gdirect",
+        "html_url": "https://github.com/mizorewww/gdirect",
+        "stars": 577,
+        "score": 4,
+        "reason": "方便下载Google Drive文件"
+      },
+      {
+        "id": 1433057196,
+        "full_name": "DenisSergeevitch/ex-ussr-kinship-research",
+        "html_url": "https://github.com/DenisSergeevitch/ex-ussr-kinship-research",
+        "stars": 538,
+        "score": 4,
+        "reason": "研究家族史的工具"
+      },
+      {
+        "id": 1432231624,
+        "full_name": "routerhubSI/glm-5.3-abliterated",
+        "html_url": "https://github.com/routerhubSI/glm-5.3-abliterated",
+        "stars": 377,
+        "score": 4,
+        "reason": "提供被审查的GLM模型访问"
+      },
+      {
+        "id": 1432523193,
+        "full_name": "Release-DLSS-5-Swapper/.github",
+        "html_url": "https://github.com/Release-DLSS-5-Swapper/.github",
+        "stars": 375,
+        "score": 4,
+        "reason": "优化游戏性能"
+      },
+      {
+        "id": 1432400572,
+        "full_name": "wangrongding/tv-fresh",
+        "html_url": "https://github.com/wangrongding/tv-fresh",
+        "stars": 370,
+        "score": 4,
+        "reason": "提升电视体验"
+      },
+      {
+        "id": 1432398049,
+        "full_name": "routerhubSI/uncensored-ai-api",
+        "html_url": "https://github.com/routerhubSI/uncensored-ai-api",
+        "stars": 365,
+        "score": 4,
+        "reason": "获取更多AI资源"
+      },
+      {
+        "id": 1431464445,
+        "full_name": "surendrapandar/minilytics",
+        "html_url": "https://github.com/surendrapandar/minilytics",
+        "stars": 336,
+        "score": 4,
+        "reason": "分析收入情况"
+      },
+      {
+        "id": 1430742800,
+        "full_name": "appariciojunior/video-editor-skills",
+        "html_url": "https://github.com/appariciojunior/video-editor-skills",
+        "stars": 257,
+        "score": 4,
+        "reason": "提升视频编辑能力"
+      },
+      {
+        "id": 1431921604,
+        "full_name": "xMazaki/unbloat-android-tv",
+        "html_url": "https://github.com/xMazaki/unbloat-android-tv",
+        "stars": 251,
+        "score": 4,
+        "reason": "优化Android TV"
+      },
+      {
+        "id": 1430956513,
+        "full_name": "EgorBo/BlazingFastDotnet",
+        "html_url": "https://github.com/EgorBo/BlazingFastDotnet",
+        "stars": 238,
+        "score": 4,
+        "reason": "提升.NET应用性能"
+      },
+      {
+        "id": 1431137168,
+        "full_name": "Charonyuu/whatsmyagentdoing",
+        "html_url": "https://github.com/Charonyuu/whatsmyagentdoing",
+        "stars": 228,
+        "score": 4,
+        "reason": "监控AI代理行为"
+      },
+      {
+        "id": 1431815066,
+        "full_name": "jouaaaaaa/mcd-self-butler",
+        "html_url": "https://github.com/jouaaaaaa/mcd-self-butler",
+        "stars": 223,
+        "score": 4,
+        "reason": "优化点餐体验"
+      },
+      {
+        "id": 1431597980,
+        "full_name": "ivarvong/lantern",
+        "html_url": "https://github.com/ivarvong/lantern",
+        "stars": 220,
+        "score": 4,
+        "reason": "理解代码逻辑"
+      },
+      {
+        "id": 1431077783,
+        "full_name": "x86rc/unthemidator",
+        "html_url": "https://github.com/x86rc/unthemidator",
+        "stars": 212,
+        "score": 4,
+        "reason": "分析软件保护机制"
+      },
+      {
+        "id": 1431576025,
+        "full_name": "ryderclanky/BotW-Native",
+        "html_url": "https://github.com/ryderclanky/BotW-Native",
+        "stars": 209,
+        "score": 4,
+        "reason": "体验游戏"
+      },
+      {
+        "id": 1430448070,
+        "full_name": "prototux/AARE",
+        "html_url": "https://github.com/prototux/AARE",
+        "stars": 201,
+        "score": 4,
+        "reason": "研究Android Auto"
+      },
+      {
+        "id": 1432414341,
+        "full_name": "YoyoLin008/mcreplay",
+        "html_url": "https://github.com/YoyoLin008/mcreplay",
+        "stars": 200,
+        "score": 4,
+        "reason": "分析应用结构变化"
+      }
+    ]
   }
 ]
