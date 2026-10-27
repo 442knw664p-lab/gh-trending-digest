@@ -4845,5 +4845,60 @@
         "reason": "分析应用结构变化"
       }
     ]
+  },
+  {
+    "date": "2026-10-27",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1431830406,
+        "full_name": "t3dotgg/tstack",
+        "html_url": "https://github.com/t3dotgg/tstack",
+        "stars": 1577,
+        "score": 4,
+        "reason": "支持多种AI工具"
+      },
+      {
+        "id": 1433636611,
+        "full_name": "DrWhax/unfairplay",
+        "html_url": "https://github.com/DrWhax/unfairplay",
+        "stars": 491,
+        "score": 4,
+        "reason": "开发者可能需要"
+      },
+      {
+        "id": 1432413816,
+        "full_name": "mirkobrombin/raven",
+        "html_url": "https://github.com/mirkobrombin/raven",
+        "stars": 445,
+        "score": 4,
+        "reason": "开发者工具，提高效率"
+      },
+      {
+        "id": 1432649361,
+        "full_name": "hevnsnt/CVEngine",
+        "html_url": "https://github.com/hevnsnt/CVEngine",
+        "stars": 385,
+        "score": 4,
+        "reason": "网络安全工具，重要"
+      },
+      {
+        "id": 1433846971,
+        "full_name": "yaojingang/GEOInflow",
+        "html_url": "https://github.com/yaojingang/GEOInflow",
+        "stars": 370,
+        "score": 4,
+        "reason": "数据分析工具，有价值"
+      },
+      {
+        "id": 1432883796,
+        "full_name": "ZiChuanLan/agent-purge",
+        "html_url": "https://github.com/ZiChuanLan/agent-purge",
+        "stars": 335,
+        "score": 4,
+        "reason": "AI开发工具，实用"
+      }
+    ]
   }
 ]
