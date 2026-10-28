@@ -4900,5 +4900,92 @@
         "reason": "AI开发工具，实用"
       }
     ]
+  },
+  {
+    "date": "2026-10-28",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1432980411,
+        "full_name": "designfuchen/word-atlas",
+        "html_url": "https://github.com/designfuchen/word-atlas",
+        "stars": 2544,
+        "score": 4,
+        "reason": "英语学习资源丰富"
+      },
+      {
+        "id": 1433904617,
+        "full_name": "andyhuo520/digital-human-koubo",
+        "html_url": "https://github.com/andyhuo520/digital-human-koubo",
+        "stars": 1088,
+        "score": 4,
+        "reason": "AI视频生成工具"
+      },
+      {
+        "id": 1433297111,
+        "full_name": "interplains/Zero-Breach-Toolkit",
+        "html_url": "https://github.com/interplains/Zero-Breach-Toolkit",
+        "stars": 773,
+        "score": 4,
+        "reason": "安全检测工具"
+      },
+      {
+        "id": 1433459113,
+        "full_name": "stormydayy/halo-overlay",
+        "html_url": "https://github.com/stormydayy/halo-overlay",
+        "stars": 514,
+        "score": 4,
+        "reason": "AI辅助工具"
+      },
+      {
+        "id": 1435695423,
+        "full_name": "anhao/ai-pose-gallery-zh",
+        "html_url": "https://github.com/anhao/ai-pose-gallery-zh",
+        "stars": 513,
+        "score": 4,
+        "reason": "AI姿势参考"
+      },
+      {
+        "id": 1434396340,
+        "full_name": "martinkeith700/ruyiJS",
+        "html_url": "https://github.com/martinkeith700/ruyiJS",
+        "stars": 450,
+        "score": 4,
+        "reason": "网站自动化工具"
+      },
+      {
+        "id": 1433134040,
+        "full_name": "egoist/mygo-cloudmusic",
+        "html_url": "https://github.com/egoist/mygo-cloudmusic",
+        "stars": 274,
+        "score": 4,
+        "reason": "音乐客户端"
+      },
+      {
+        "id": 1432958333,
+        "full_name": "hugues31/duckpad",
+        "html_url": "https://github.com/hugues31/duckpad",
+        "stars": 267,
+        "score": 4,
+        "reason": "数据转换工具"
+      },
+      {
+        "id": 1433612617,
+        "full_name": "mxhm11cr/LinuxRunner",
+        "html_url": "https://github.com/mxhm11cr/LinuxRunner",
+        "stars": 264,
+        "score": 4,
+        "reason": "iOS应用运行工具"
+      },
+      {
+        "id": 1432850045,
+        "full_name": "heydeer/pngdeer",
+        "html_url": "https://github.com/heydeer/pngdeer",
+        "stars": 262,
+        "score": 4,
+        "reason": "图片压缩工具"
+      }
+    ]
   }
 ]
