@@ -4987,5 +4987,84 @@
         "reason": "图片压缩工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-29",
+    "type": "daily",
+    "count": 9,
+    "repos": [
+      {
+        "id": 1434335249,
+        "full_name": "deepopen-com/deepopen-3d-webs",
+        "html_url": "https://github.com/deepopen-com/deepopen-3d-webs",
+        "stars": 495,
+        "score": 5,
+        "reason": "提供3D场景生成功能"
+      },
+      {
+        "id": 1434017230,
+        "full_name": "Motionsites-AI/claude-skill",
+        "html_url": "https://github.com/Motionsites-AI/claude-skill",
+        "stars": 902,
+        "score": 4,
+        "reason": "提供高级页面构建功能"
+      },
+      {
+        "id": 1434156379,
+        "full_name": "konlu/story-studio",
+        "html_url": "https://github.com/konlu/story-studio",
+        "stars": 392,
+        "score": 4,
+        "reason": "提供短视频内容创作支持"
+      },
+      {
+        "id": 1435425970,
+        "full_name": "patch-gg/anymove",
+        "html_url": "https://github.com/patch-gg/anymove",
+        "stars": 360,
+        "score": 4,
+        "reason": "提供动作捕捉功能"
+      },
+      {
+        "id": 1436414244,
+        "full_name": "vaishantsah/watson-AI-osint-all-in-one",
+        "html_url": "https://github.com/vaishantsah/watson-AI-osint-all-in-one",
+        "stars": 356,
+        "score": 4,
+        "reason": "提供OSINT搜索功能"
+      },
+      {
+        "id": 1435761182,
+        "full_name": "OpenBMB/MiniCPM-OCR",
+        "html_url": "https://github.com/OpenBMB/MiniCPM-OCR",
+        "stars": 267,
+        "score": 4,
+        "reason": "提供OCR解决方案"
+      },
+      {
+        "id": 1435672472,
+        "full_name": "haydenschmitty/floorplan",
+        "html_url": "https://github.com/haydenschmitty/floorplan",
+        "stars": 265,
+        "score": 4,
+        "reason": "提供代码库映射功能"
+      },
+      {
+        "id": 1433932117,
+        "full_name": "JunWan666/astrbot-for-android",
+        "html_url": "https://github.com/JunWan666/astrbot-for-android",
+        "stars": 239,
+        "score": 4,
+        "reason": "提供本地AstrBot管理工具"
+      },
+      {
+        "id": 1436502942,
+        "full_name": "MiniMax-AI/mcode-stack",
+        "html_url": "https://github.com/MiniMax-AI/mcode-stack",
+        "stars": 226,
+        "score": 4,
+        "reason": "提供代码开发工具"
+      }
+    ]
   }
 ]
