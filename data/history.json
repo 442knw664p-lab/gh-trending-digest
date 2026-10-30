@@ -5066,5 +5066,68 @@
         "reason": "提供代码开发工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-30",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1436323783,
+        "full_name": "ChannelCooperStart/capri-ai",
+        "html_url": "https://github.com/ChannelCooperStart/capri-ai",
+        "stars": 428,
+        "score": 4,
+        "reason": "实用的AI代理工具"
+      },
+      {
+        "id": 1436721854,
+        "full_name": "HRuiCcc/RuiC-PoseAtlas",
+        "html_url": "https://github.com/HRuiCcc/RuiC-PoseAtlas",
+        "stars": 323,
+        "score": 4,
+        "reason": "实用的艺术参考工具"
+      },
+      {
+        "id": 1437343601,
+        "full_name": "Humpalumps/Ultra-Water",
+        "html_url": "https://github.com/Humpalumps/Ultra-Water",
+        "stars": 320,
+        "score": 4,
+        "reason": "实用的WebGL渲染工具"
+      },
+      {
+        "id": 1436698875,
+        "full_name": "shipwords-dev/shipwords",
+        "html_url": "https://github.com/shipwords-dev/shipwords",
+        "stars": 279,
+        "score": 4,
+        "reason": "实用的AI网站构建工具"
+      },
+      {
+        "id": 1436420580,
+        "full_name": "brainstormity/LightPost",
+        "html_url": "https://github.com/brainstormity/LightPost",
+        "stars": 276,
+        "score": 4,
+        "reason": "实用的社交媒体自动化工具"
+      },
+      {
+        "id": 1438018242,
+        "full_name": "paipiange/nvzhuang",
+        "html_url": "https://github.com/paipiange/nvzhuang",
+        "stars": 256,
+        "score": 4,
+        "reason": "实用的艺术参考工具"
+      },
+      {
+        "id": 1436184001,
+        "full_name": "jackwener/DeepseekHarness-Android",
+        "html_url": "https://github.com/jackwener/DeepseekHarness-Android",
+        "stars": 243,
+        "score": 4,
+        "reason": "实用的安卓自动化工具"
+      }
+    ]
   }
 ]
