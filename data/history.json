@@ -5129,5 +5129,60 @@
         "reason": "实用的安卓自动化工具"
       }
     ]
+  },
+  {
+    "date": "2026-10-31",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1438540053,
+        "full_name": "wangzan101/Mika",
+        "html_url": "https://github.com/wangzan101/Mika",
+        "stars": 1408,
+        "score": 4,
+        "reason": "AI助手工具"
+      },
+      {
+        "id": 1437131455,
+        "full_name": "lexifina/global-law",
+        "html_url": "https://github.com/lexifina/global-law",
+        "stars": 995,
+        "score": 4,
+        "reason": "法律研究工具"
+      },
+      {
+        "id": 1437033043,
+        "full_name": "jmanico/grim-prompter",
+        "html_url": "https://github.com/jmanico/grim-prompter",
+        "stars": 254,
+        "score": 4,
+        "reason": "AI安全工具"
+      },
+      {
+        "id": 1436993930,
+        "full_name": "cutetailbud/ff-ruyijs",
+        "html_url": "https://github.com/cutetailbud/ff-ruyijs",
+        "stars": 242,
+        "score": 4,
+        "reason": "JavaScript自动化工具"
+      },
+      {
+        "id": 1439308037,
+        "full_name": "alchaincyf/huashu-bird-sticker",
+        "html_url": "https://github.com/alchaincyf/huashu-bird-sticker",
+        "stars": 236,
+        "score": 4,
+        "reason": "鸟类研究工具"
+      },
+      {
+        "id": 1437851800,
+        "full_name": "soimy/c3rb3r-rescue",
+        "html_url": "https://github.com/soimy/c3rb3r-rescue",
+        "stars": 233,
+        "score": 4,
+        "reason": "勒索软件恢复工具"
+      }
+    ]
   }
 ]
