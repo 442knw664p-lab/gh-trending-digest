@@ -5184,5 +5184,36 @@
         "reason": "勒索软件恢复工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-01",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1440705679,
+        "full_name": "deepseek-ai/dsh-superagent-prototype",
+        "html_url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+        "stars": 4078,
+        "score": 4,
+        "reason": "智能体系统开发工具"
+      },
+      {
+        "id": 1438623288,
+        "full_name": "heydamir/unslop",
+        "html_url": "https://github.com/heydamir/unslop",
+        "stars": 3827,
+        "score": 4,
+        "reason": "UI设计辅助工具"
+      },
+      {
+        "id": 1438326535,
+        "full_name": "BryceYuuu/RUN",
+        "html_url": "https://github.com/BryceYuuu/RUN",
+        "stars": 1000,
+        "score": 4,
+        "reason": "移民信息工具"
+      }
+    ]
   }
 ]
