@@ -5215,5 +5215,68 @@
         "reason": "移民信息工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-02",
+    "type": "daily",
+    "count": 7,
+    "repos": [
+      {
+        "id": 1439372976,
+        "full_name": "patch-gg/pixelfx",
+        "html_url": "https://github.com/patch-gg/pixelfx",
+        "stars": 2981,
+        "score": 5,
+        "reason": "丰富的像素艺术效果"
+      },
+      {
+        "id": 1440956372,
+        "full_name": "storytold/craft-anything",
+        "html_url": "https://github.com/storytold/craft-anything",
+        "stars": 1775,
+        "score": 4,
+        "reason": "独特的学习和构建方法"
+      },
+      {
+        "id": 1441517767,
+        "full_name": "caru-ini/stack-diagram",
+        "html_url": "https://github.com/caru-ini/stack-diagram",
+        "stars": 702,
+        "score": 4,
+        "reason": "方便的技术栈可视化"
+      },
+      {
+        "id": 1441183469,
+        "full_name": "arpanjot-coding/AVault",
+        "html_url": "https://github.com/arpanjot-coding/AVault",
+        "stars": 512,
+        "score": 4,
+        "reason": "隐私保护通话录音"
+      },
+      {
+        "id": 1441272552,
+        "full_name": "Verlintas/NOIR",
+        "html_url": "https://github.com/Verlintas/NOIR",
+        "stars": 479,
+        "score": 4,
+        "reason": "Android 隐私审计"
+      },
+      {
+        "id": 1442056769,
+        "full_name": "Balanov/uncut",
+        "html_url": "https://github.com/Balanov/uncut",
+        "stars": 403,
+        "score": 4,
+        "reason": "无头编码工具"
+      },
+      {
+        "id": 1440886267,
+        "full_name": "yetone/alma-relay",
+        "html_url": "https://github.com/yetone/alma-relay",
+        "stars": 369,
+        "score": 4,
+        "reason": "远程桌面控制"
+      }
+    ]
   }
 ]
