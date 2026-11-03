@@ -5278,5 +5278,36 @@
         "reason": "远程桌面控制"
       }
     ]
+  },
+  {
+    "date": "2026-11-03",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1441344216,
+        "full_name": "Centiplatrap/pc-game-fps-doctor",
+        "html_url": "https://github.com/Centiplatrap/pc-game-fps-doctor",
+        "stars": 610,
+        "score": 4,
+        "reason": "解决游戏性能问题"
+      },
+      {
+        "id": 1443300132,
+        "full_name": "Balanov/shim",
+        "html_url": "https://github.com/Balanov/shim",
+        "stars": 408,
+        "score": 4,
+        "reason": "本地AI工具"
+      },
+      {
+        "id": 1441346960,
+        "full_name": "ShineFinancialStrut/game-server-route-racer",
+        "html_url": "https://github.com/ShineFinancialStrut/game-server-route-racer",
+        "stars": 369,
+        "score": 4,
+        "reason": "游戏性能优化"
+      }
+    ]
   }
 ]
