@@ -5309,5 +5309,60 @@
         "reason": "游戏性能优化"
       }
     ]
+  },
+  {
+    "date": "2026-11-05",
+    "type": "daily",
+    "count": 6,
+    "repos": [
+      {
+        "id": 1443985070,
+        "full_name": "KKKKhazix/agent-autoloop",
+        "html_url": "https://github.com/KKKKhazix/agent-autoloop",
+        "stars": 2894,
+        "score": 4,
+        "reason": "自动化后台任务"
+      },
+      {
+        "id": 1443759946,
+        "full_name": "govijr/terminal-mac",
+        "html_url": "https://github.com/govijr/terminal-mac",
+        "stars": 1696,
+        "score": 4,
+        "reason": "提供类似MacOS的终端体验"
+      },
+      {
+        "id": 1444569395,
+        "full_name": "brightsongwrath/personal-data-deletor-osint",
+        "html_url": "https://github.com/brightsongwrath/personal-data-deletor-osint",
+        "stars": 612,
+        "score": 4,
+        "reason": "数据删除工具"
+      },
+      {
+        "id": 1446642680,
+        "full_name": "TagPhaseArcade/tiktok-uploader",
+        "html_url": "https://github.com/TagPhaseArcade/tiktok-uploader",
+        "stars": 425,
+        "score": 4,
+        "reason": "自动化视频上传"
+      },
+      {
+        "id": 1446565991,
+        "full_name": "dragonwolfshovel/youtube-uploader",
+        "html_url": "https://github.com/dragonwolfshovel/youtube-uploader",
+        "stars": 425,
+        "score": 4,
+        "reason": "自动化视频上传"
+      },
+      {
+        "id": 1444593808,
+        "full_name": "PatchBuilderAmplify/stolen-crypto-tracer",
+        "html_url": "https://github.com/PatchBuilderAmplify/stolen-crypto-tracer",
+        "stars": 401,
+        "score": 4,
+        "reason": "追踪被盗加密货币"
+      }
+    ]
   }
 ]
