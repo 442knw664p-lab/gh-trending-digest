@@ -5364,5 +5364,76 @@
         "reason": "追踪被盗加密货币"
       }
     ]
+  },
+  {
+    "date": "2026-11-06",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1444372497,
+        "full_name": "Minireel/HGhub",
+        "html_url": "https://github.com/Minireel/HGhub",
+        "stars": 1297,
+        "score": 4,
+        "reason": "提供网页角色扮演体验"
+      },
+      {
+        "id": 1446515117,
+        "full_name": "WoYun520/pixel-gif-sticker-pack",
+        "html_url": "https://github.com/WoYun520/pixel-gif-sticker-pack",
+        "stars": 499,
+        "score": 4,
+        "reason": "方便创建和验证动画贴纸"
+      },
+      {
+        "id": 1444005452,
+        "full_name": "Sandflow-ai/sand3d",
+        "html_url": "https://github.com/Sandflow-ai/sand3d",
+        "stars": 461,
+        "score": 4,
+        "reason": "适用于3D建模和程序化设计"
+      },
+      {
+        "id": 1447903382,
+        "full_name": "HerdBuilderEstimate/roblox-studio-mcp",
+        "html_url": "https://github.com/HerdBuilderEstimate/roblox-studio-mcp",
+        "stars": 426,
+        "score": 4,
+        "reason": "提供Roblox Studio的AI工具"
+      },
+      {
+        "id": 1444112593,
+        "full_name": "sarpstar/cinecode",
+        "html_url": "https://github.com/sarpstar/cinecode",
+        "stars": 423,
+        "score": 4,
+        "reason": "提供代码制作电影工具"
+      },
+      {
+        "id": 1446578592,
+        "full_name": "MythicHokageRepel/steam-inventory-value-desktop",
+        "html_url": "https://github.com/MythicHokageRepel/steam-inventory-value-desktop",
+        "stars": 420,
+        "score": 4,
+        "reason": "提供Steam库存评估工具"
+      },
+      {
+        "id": 1447225443,
+        "full_name": "Nebularotunnel/Token-Sniper",
+        "html_url": "https://github.com/Nebularotunnel/Token-Sniper",
+        "stars": 391,
+        "score": 4,
+        "reason": "提供加密货币分析工具"
+      },
+      {
+        "id": 1443805845,
+        "full_name": "Renly1994/xiaotang-daozai",
+        "html_url": "https://github.com/Renly1994/xiaotang-daozai",
+        "stars": 385,
+        "score": 4,
+        "reason": "提供桌面信息岛工具"
+      }
+    ]
   }
 ]
