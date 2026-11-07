@@ -5435,5 +5435,28 @@
         "reason": "提供桌面信息岛工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-07",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1448068371,
+        "full_name": "JenkinWoo/sheeridVerify",
+        "html_url": "https://github.com/JenkinWoo/sheeridVerify",
+        "stars": 1139,
+        "score": 4,
+        "reason": "本地管理加密货币"
+      },
+      {
+        "id": 1446548114,
+        "full_name": "mmdoctor/google-pro-helper",
+        "html_url": "https://github.com/mmdoctor/google-pro-helper",
+        "stars": 967,
+        "score": 4,
+        "reason": "模拟器兼容性指南"
+      }
+    ]
   }
 ]
