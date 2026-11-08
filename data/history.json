@@ -5458,5 +5458,100 @@
         "reason": "模拟器兼容性指南"
       }
     ]
+  },
+  {
+    "date": "2026-11-08",
+    "type": "daily",
+    "count": 11,
+    "repos": [
+      {
+        "id": 1447145240,
+        "full_name": "JosssphZhou/poki",
+        "html_url": "https://github.com/JosssphZhou/poki",
+        "stars": 536,
+        "score": 5,
+        "reason": "解决高延迟Wi-Fi问题"
+      },
+      {
+        "id": 1447145240,
+        "full_name": "JosssphZhou/poki",
+        "html_url": "https://github.com/JosssphZhou/poki",
+        "stars": 536,
+        "score": 5,
+        "reason": "AI代理iPhone操作工具"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 608,
+        "score": 4,
+        "reason": "适用于3D和VFX开发"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 608,
+        "score": 4,
+        "reason": "智能家居语音交互工具"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 608,
+        "score": 4,
+        "reason": "提升Roblox游戏性能"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 608,
+        "score": 4,
+        "reason": "加密货币投资跟踪工具"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 608,
+        "score": 4,
+        "reason": "Twitch自动化工具"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 608,
+        "score": 4,
+        "reason": "Steam游戏自动化工具"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 608,
+        "score": 4,
+        "reason": "Discord自动化工具"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 608,
+        "score": 4,
+        "reason": "Minecraft防掉线工具"
+      },
+      {
+        "id": 1449518822,
+        "full_name": "Th0rgal/satmux",
+        "html_url": "https://github.com/Th0rgal/satmux",
+        "stars": 608,
+        "score": 4,
+        "reason": "项目隔离开发环境"
+      }
+    ]
   }
 ]
