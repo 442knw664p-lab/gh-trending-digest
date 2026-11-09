@@ -5553,5 +5553,28 @@
         "reason": "项目隔离开发环境"
       }
     ]
+  },
+  {
+    "date": "2026-11-09",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1447939618,
+        "full_name": "devvmhq/devvm",
+        "html_url": "https://github.com/devvmhq/devvm",
+        "stars": 426,
+        "score": 5,
+        "reason": "提供隔离开发环境，提高安全性"
+      },
+      {
+        "id": 1448515937,
+        "full_name": "DIYgod/pinky",
+        "html_url": "https://github.com/DIYgod/pinky",
+        "stars": 1120,
+        "score": 4,
+        "reason": "AI辅助工具，提高效率"
+      }
+    ]
   }
 ]
