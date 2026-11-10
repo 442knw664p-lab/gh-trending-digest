@@ -5576,5 +5576,92 @@
         "reason": "AI辅助工具，提高效率"
       }
     ]
+  },
+  {
+    "date": "2026-11-10",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1450963843,
+        "full_name": "huamidev/GestaltX",
+        "html_url": "https://github.com/huamidev/GestaltX",
+        "stars": 3298,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1449231124,
+        "full_name": "tangerineturtle1/NX2navi",
+        "html_url": "https://github.com/tangerineturtle1/NX2navi",
+        "stars": 2570,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1450012790,
+        "full_name": "jhaizhou-ops/S2Arm",
+        "html_url": "https://github.com/jhaizhou-ops/S2Arm",
+        "stars": 2150,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1448920409,
+        "full_name": "lxe/phoneuse",
+        "html_url": "https://github.com/lxe/phoneuse",
+        "stars": 546,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1448924811,
+        "full_name": "dabingfy-dot/solo-to-team-skills",
+        "html_url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+        "stars": 439,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1449966158,
+        "full_name": "PlateParrotTerminal/lag-doctor",
+        "html_url": "https://github.com/PlateParrotTerminal/lag-doctor",
+        "stars": 439,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1448889325,
+        "full_name": "TooonyChen/finallyshell",
+        "html_url": "https://github.com/TooonyChen/finallyshell",
+        "stars": 429,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1452123445,
+        "full_name": "Kianuni/Erosion-CN",
+        "html_url": "https://github.com/Kianuni/Erosion-CN",
+        "stars": 418,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1449770510,
+        "full_name": "Goldoire/fefw-recomp",
+        "html_url": "https://github.com/Goldoire/fefw-recomp",
+        "stars": 404,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      },
+      {
+        "id": 1450989838,
+        "full_name": "FJNB5/fujiang-pojia",
+        "html_url": "https://github.com/FJNB5/fujiang-pojia",
+        "stars": 383,
+        "score": 0,
+        "reason": "Star排名自动入选（AI未评分）"
+      }
+    ]
   }
 ]
