@@ -5663,5 +5663,20 @@
         "reason": "Star排名自动入选（AI未评分）"
       }
     ]
+  },
+  {
+    "date": "2026-11-11",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1452008226,
+        "full_name": "HolyArrs/HolyArrs",
+        "html_url": "https://github.com/HolyArrs/HolyArrs",
+        "stars": 645,
+        "score": 4,
+        "reason": "媒体服务器工具"
+      }
+    ]
   }
 ]
