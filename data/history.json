@@ -5678,5 +5678,116 @@
         "reason": "媒体服务器工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-12",
+    "type": "daily",
+    "count": 13,
+    "repos": [
+      {
+        "id": 1452531582,
+        "full_name": "HybridRobotics/supermimic",
+        "html_url": "https://github.com/HybridRobotics/supermimic",
+        "stars": 1167,
+        "score": 5,
+        "reason": "开发者必备"
+      },
+      {
+        "id": 1451419767,
+        "full_name": "kolbicz/WQFiles",
+        "html_url": "https://github.com/kolbicz/WQFiles",
+        "stars": 670,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1450794567,
+        "full_name": "agentes-chat/agentes-chat",
+        "html_url": "https://github.com/agentes-chat/agentes-chat",
+        "stars": 610,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1453132706,
+        "full_name": "FrigadeHQ/yogurt",
+        "html_url": "https://github.com/FrigadeHQ/yogurt",
+        "stars": 579,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1452450730,
+        "full_name": "JDhruv14/line-art-animation",
+        "html_url": "https://github.com/JDhruv14/line-art-animation",
+        "stars": 498,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1451775929,
+        "full_name": "alexeyw/lot-map",
+        "html_url": "https://github.com/alexeyw/lot-map",
+        "stars": 462,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1451662178,
+        "full_name": "Dodaios/ste80-humanizer",
+        "html_url": "https://github.com/Dodaios/ste80-humanizer",
+        "stars": 420,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1451653921,
+        "full_name": "MiniMax-AI/MiniMax-H3-Image",
+        "html_url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+        "stars": 254,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1452864416,
+        "full_name": "ValidatorStack/solana-vigil",
+        "html_url": "https://github.com/ValidatorStack/solana-vigil",
+        "stars": 241,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1451084291,
+        "full_name": "Moh4696/cinematic-skill",
+        "html_url": "https://github.com/Moh4696/cinematic-skill",
+        "stars": 214,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1454283024,
+        "full_name": "SsKanDon/blender-ai-mcp-addon",
+        "html_url": "https://github.com/SsKanDon/blender-ai-mcp-addon",
+        "stars": 207,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1454357066,
+        "full_name": "SsKanDon/blender-unreal-asset-bridge",
+        "html_url": "https://github.com/SsKanDon/blender-unreal-asset-bridge",
+        "stars": 192,
+        "score": 4,
+        "reason": "有价值"
+      },
+      {
+        "id": 1454389076,
+        "full_name": "linknimiball1974/ai-texture-forge",
+        "html_url": "https://github.com/linknimiball1974/ai-texture-forge",
+        "stars": 191,
+        "score": 4,
+        "reason": "有价值"
+      }
+    ]
   }
 ]
