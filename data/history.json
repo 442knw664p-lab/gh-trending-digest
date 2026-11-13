@@ -5789,5 +5789,92 @@
         "reason": "有价值"
       }
     ]
+  },
+  {
+    "date": "2026-11-13",
+    "type": "daily",
+    "count": 10,
+    "repos": [
+      {
+        "id": 1453517867,
+        "full_name": "apex-compute/ANR",
+        "html_url": "https://github.com/apex-compute/ANR",
+        "stars": 1107,
+        "score": 5,
+        "reason": "提高渲染性能"
+      },
+      {
+        "id": 1455173808,
+        "full_name": "AIRzZ90/study-materials-fork",
+        "html_url": "https://github.com/AIRzZ90/study-materials-fork",
+        "stars": 431,
+        "score": 4,
+        "reason": "实践项目"
+      },
+      {
+        "id": 1452544018,
+        "full_name": "aronhy/pibrowse",
+        "html_url": "https://github.com/aronhy/pibrowse",
+        "stars": 365,
+        "score": 4,
+        "reason": "浏览器配置管理"
+      },
+      {
+        "id": 1454392563,
+        "full_name": "makepad/relax",
+        "html_url": "https://github.com/makepad/relax",
+        "stars": 313,
+        "score": 4,
+        "reason": "Rust开发工具"
+      },
+      {
+        "id": 1454661440,
+        "full_name": "rivet-dev/open-orange",
+        "html_url": "https://github.com/rivet-dev/open-orange",
+        "stars": 296,
+        "score": 4,
+        "reason": "跨云平台部署"
+      },
+      {
+        "id": 1452313780,
+        "full_name": "bea4dev/shoji-bar-4",
+        "html_url": "https://github.com/bea4dev/shoji-bar-4",
+        "stars": 220,
+        "score": 4,
+        "reason": "Rust图形界面库"
+      },
+      {
+        "id": 1452417816,
+        "full_name": "huawei-csl/MACaQ",
+        "html_url": "https://github.com/huawei-csl/MACaQ",
+        "stars": 219,
+        "score": 4,
+        "reason": "模型量化工具"
+      },
+      {
+        "id": 1452464401,
+        "full_name": "egoist/tinytraffic",
+        "html_url": "https://github.com/egoist/tinytraffic",
+        "stars": 217,
+        "score": 4,
+        "reason": "Web分析工具"
+      },
+      {
+        "id": 1453389238,
+        "full_name": "AFangTeam/PrintLab",
+        "html_url": "https://github.com/AFangTeam/PrintLab",
+        "stars": 158,
+        "score": 4,
+        "reason": "3D打印辅助工具"
+      },
+      {
+        "id": 1453297286,
+        "full_name": "pmndrs/pine",
+        "html_url": "https://github.com/pmndrs/pine",
+        "stars": 157,
+        "score": 4,
+        "reason": "代理开发工具"
+      }
+    ]
   }
 ]
