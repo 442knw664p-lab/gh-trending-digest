@@ -5876,5 +5876,140 @@
         "reason": "代理开发工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-14",
+    "type": "daily",
+    "count": 16,
+    "repos": [
+      {
+        "id": 1455815512,
+        "full_name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+        "html_url": "https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows",
+        "stars": 541,
+        "score": 4,
+        "reason": "方便非专业人士使用FFmpeg"
+      },
+      {
+        "id": 1456537250,
+        "full_name": "opencoredev/islandcn",
+        "html_url": "https://github.com/opencoredev/islandcn",
+        "stars": 433,
+        "score": 4,
+        "reason": "提供React动态岛组件"
+      },
+      {
+        "id": 1456134750,
+        "full_name": "faizfahmi77/ScanDot",
+        "html_url": "https://github.com/faizfahmi77/ScanDot",
+        "stars": 403,
+        "score": 4,
+        "reason": "3D扫描和点云查看工具"
+      },
+      {
+        "id": 1454221776,
+        "full_name": "op7418/guizang-game-skill",
+        "html_url": "https://github.com/op7418/guizang-game-skill",
+        "stars": 327,
+        "score": 4,
+        "reason": "AI生成3D游戏工具"
+      },
+      {
+        "id": 1454561955,
+        "full_name": "DandanLLab/SnowCatQQ",
+        "html_url": "https://github.com/DandanLLab/SnowCatQQ",
+        "stars": 296,
+        "score": 4,
+        "reason": "QQ客户端，功能丰富"
+      },
+      {
+        "id": 1455933518,
+        "full_name": "berkantay/gpucanvas",
+        "html_url": "https://github.com/berkantay/gpucanvas",
+        "stars": 244,
+        "score": 4,
+        "reason": "HTML画布设计工具"
+      },
+      {
+        "id": 1455196450,
+        "full_name": "higurashi-ai/Haru",
+        "html_url": "https://github.com/higurashi-ai/Haru",
+        "stars": 235,
+        "score": 4,
+        "reason": "语音对话模型"
+      },
+      {
+        "id": 1455742253,
+        "full_name": "credoksopho1984/blender-ai-copilot-studio",
+        "html_url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+        "stars": 211,
+        "score": 4,
+        "reason": "Blender AI工具"
+      },
+      {
+        "id": 1455416555,
+        "full_name": "hitkeeen/blender-ai-mcp-addon",
+        "html_url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+        "stars": 208,
+        "score": 4,
+        "reason": "Blender AI工具"
+      },
+      {
+        "id": 1455750092,
+        "full_name": "tiobeharxi1987/blender-ai-copilot-flow",
+        "html_url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+        "stars": 208,
+        "score": 4,
+        "reason": "Blender AI工具"
+      },
+      {
+        "id": 1455744896,
+        "full_name": "precygtrucqui1981/blender-ai-copilot-lab",
+        "html_url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
+        "stars": 207,
+        "score": 4,
+        "reason": "Blender AI工具"
+      },
+      {
+        "id": 1455744040,
+        "full_name": "baiblinocun1986/blender-ai-copilot-hub",
+        "html_url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
+        "stars": 207,
+        "score": 4,
+        "reason": "Blender AI工具"
+      },
+      {
+        "id": 1455746615,
+        "full_name": "Doug-218/blender-ai-copilot-forge",
+        "html_url": "https://github.com/Doug-218/blender-ai-copilot-forge",
+        "stars": 206,
+        "score": 4,
+        "reason": "Blender AI工具"
+      },
+      {
+        "id": 1455748713,
+        "full_name": "fumbdendade19718/blender-ai-copilot-desk",
+        "html_url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
+        "stars": 203,
+        "score": 4,
+        "reason": "Blender AI工具"
+      },
+      {
+        "id": 1455751043,
+        "full_name": "zovulrira1974/blender-ai-copilot-assets",
+        "html_url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+        "stars": 203,
+        "score": 4,
+        "reason": "Blender AI工具"
+      },
+      {
+        "id": 1455740160,
+        "full_name": "racdeufindurch198812/Blender-AI-MCP-Studio",
+        "html_url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+        "stars": 203,
+        "score": 4,
+        "reason": "Blender AI工具"
+      }
+    ]
   }
 ]
