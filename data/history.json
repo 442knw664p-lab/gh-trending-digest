@@ -6011,5 +6011,220 @@
         "reason": "Blender AI工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-15",
+    "type": "daily",
+    "count": 26,
+    "repos": [
+      {
+        "id": 1458092197,
+        "full_name": "TrapAccountant/GitHub-Copilot-app",
+        "html_url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
+        "stars": 670,
+        "score": 5,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458091050,
+        "full_name": "Topkiflare74/ai--manus2.0",
+        "html_url": "https://github.com/Topkiflare74/ai--manus2.0",
+        "stars": 678,
+        "score": 4,
+        "reason": "提供AI代理系统"
+      },
+      {
+        "id": 1458092119,
+        "full_name": "trackboatwrightplan/GitHub-Copilot-app",
+        "html_url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+        "stars": 672,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458099066,
+        "full_name": "TurquoiseDetective/IPTV_Player_2.0",
+        "html_url": "https://github.com/TurquoiseDetective/IPTV_Player_2.0",
+        "stars": 669,
+        "score": 4,
+        "reason": "IPTV流媒体应用"
+      },
+      {
+        "id": 1458091291,
+        "full_name": "tornadonovicewhirl40/IPTV_Player_2.0",
+        "html_url": "https://github.com/tornadonovicewhirl40/IPTV_Player_2.0",
+        "stars": 669,
+        "score": 4,
+        "reason": "IPTV流媒体应用"
+      },
+      {
+        "id": 1458099253,
+        "full_name": "WattBeetleLearn/IPTV_Player_2.0",
+        "html_url": "https://github.com/WattBeetleLearn/IPTV_Player_2.0",
+        "stars": 667,
+        "score": 4,
+        "reason": "IPTV流媒体应用"
+      },
+      {
+        "id": 1458091044,
+        "full_name": "topapothecarycanal/ai--manus2.0",
+        "html_url": "https://github.com/topapothecarycanal/ai--manus2.0",
+        "stars": 666,
+        "score": 4,
+        "reason": "提供AI代理系统"
+      },
+      {
+        "id": 1458099092,
+        "full_name": "Trapbraneedle/IPTV_Player_2.0",
+        "html_url": "https://github.com/Trapbraneedle/IPTV_Player_2.0",
+        "stars": 666,
+        "score": 4,
+        "reason": "IPTV流媒体应用"
+      },
+      {
+        "id": 1458092120,
+        "full_name": "trackersnailgrip/GitHub-Copilot-app",
+        "html_url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+        "stars": 666,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458099094,
+        "full_name": "Titanlushrink/IPTV_Player_2.0",
+        "html_url": "https://github.com/Titanlushrink/IPTV_Player_2.0",
+        "stars": 665,
+        "score": 4,
+        "reason": "IPTV流媒体应用"
+      },
+      {
+        "id": 1458092123,
+        "full_name": "TradesmanRecord/GitHub-Copilot-app",
+        "html_url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
+        "stars": 665,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458091062,
+        "full_name": "toppatronweave/ai--manus2.0",
+        "html_url": "https://github.com/toppatronweave/ai--manus2.0",
+        "stars": 665,
+        "score": 4,
+        "reason": "提供AI代理系统"
+      },
+      {
+        "id": 1458099119,
+        "full_name": "toppatronweave/GitHub-Copilot-app",
+        "html_url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+        "stars": 665,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458091352,
+        "full_name": "Torusdrasocket/IPTV_Player_2.0",
+        "html_url": "https://github.com/Torusdrasocket/IPTV_Player_2.0",
+        "stars": 665,
+        "score": 4,
+        "reason": "IPTV流媒体应用"
+      },
+      {
+        "id": 1458091425,
+        "full_name": "TowerStalker/IPTV_Player_2.0",
+        "html_url": "https://github.com/TowerStalker/IPTV_Player_2.0",
+        "stars": 665,
+        "score": 4,
+        "reason": "IPTV流媒体应用"
+      },
+      {
+        "id": 1458099075,
+        "full_name": "TurkeyDesignate/GitHub-Copilot-app",
+        "html_url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
+        "stars": 664,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458099121,
+        "full_name": "TurquoiseConsultant/GitHub-Copilot-app",
+        "html_url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
+        "stars": 664,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458092242,
+        "full_name": "TrapBladesmith/GitHub-Copilot-app",
+        "html_url": "https://github.com/TrapBladesmith/GitHub-Copilot-app",
+        "stars": 664,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458099218,
+        "full_name": "WebBookkeeper/GitHub-Copilot-app",
+        "html_url": "https://github.com/WebBookkeeper/GitHub-Copilot-app",
+        "stars": 663,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458099096,
+        "full_name": "Tealplesense/GitHub-Copilot-app",
+        "html_url": "https://github.com/Tealplesense/GitHub-Copilot-app",
+        "stars": 663,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458091509,
+        "full_name": "Tornadovonmodify/IPTV_Player_2.0",
+        "html_url": "https://github.com/Tornadovonmodify/IPTV_Player_2.0",
+        "stars": 663,
+        "score": 4,
+        "reason": "IPTV流媒体应用"
+      },
+      {
+        "id": 1458091047,
+        "full_name": "topconstableinlet67/ai--manus2.0",
+        "html_url": "https://github.com/topconstableinlet67/ai--manus2.0",
+        "stars": 663,
+        "score": 4,
+        "reason": "提供AI代理系统"
+      },
+      {
+        "id": 1458091323,
+        "full_name": "TorrentArrow/IPTV_Player_2.0",
+        "html_url": "https://github.com/TorrentArrow/IPTV_Player_2.0",
+        "stars": 661,
+        "score": 4,
+        "reason": "IPTV流媒体应用"
+      },
+      {
+        "id": 1458099091,
+        "full_name": "unitsenseimonitor/GitHub-Copilot-app",
+        "html_url": "https://github.com/unitsenseimonitor/GitHub-Copilot-app",
+        "stars": 661,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458099089,
+        "full_name": "topconstableinlet67/GitHub-Copilot-app",
+        "html_url": "https://github.com/topconstableinlet67/GitHub-Copilot-app",
+        "stars": 661,
+        "score": 4,
+        "reason": "GitHub Copilot桌面应用"
+      },
+      {
+        "id": 1458099072,
+        "full_name": "tremorbuffalospire/IPTV_Player_2.0",
+        "html_url": "https://github.com/tremorbuffalospire/IPTV_Player_2.0",
+        "stars": 661,
+        "score": 4,
+        "reason": "IPTV流媒体应用"
+      }
+    ]
   }
 ]
