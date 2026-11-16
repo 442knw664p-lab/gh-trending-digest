@@ -6226,5 +6226,20 @@
         "reason": "IPTV流媒体应用"
       }
     ]
+  },
+  {
+    "date": "2026-11-16",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1457270665,
+        "full_name": "duwqijlk/muse-protocol",
+        "html_url": "https://github.com/duwqijlk/muse-protocol",
+        "stars": 1209,
+        "score": 4,
+        "reason": "简化注册流程"
+      }
+    ]
   }
 ]
