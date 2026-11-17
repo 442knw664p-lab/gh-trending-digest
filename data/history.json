@@ -6241,5 +6241,52 @@
         "reason": "简化注册流程"
       }
     ]
+  },
+  {
+    "date": "2026-11-17",
+    "type": "daily",
+    "count": 5,
+    "repos": [
+      {
+        "id": 1457509118,
+        "full_name": "haziqahmedqasmi/PeakCut",
+        "html_url": "https://github.com/haziqahmedqasmi/PeakCut",
+        "stars": 716,
+        "score": 4,
+        "reason": "AI辅助视频剪辑"
+      },
+      {
+        "id": 1460469810,
+        "full_name": "krisgfx9/Wireless-Device-Battery-Monitor",
+        "html_url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+        "stars": 672,
+        "score": 4,
+        "reason": "方便的电池监控工具"
+      },
+      {
+        "id": 1457362196,
+        "full_name": "CzzzzzzJ/mdldm-maitian",
+        "html_url": "https://github.com/CzzzzzzJ/mdldm-maitian",
+        "stars": 664,
+        "score": 4,
+        "reason": "多平台自媒体管理工具"
+      },
+      {
+        "id": 1458292408,
+        "full_name": "yetanotherbrowser/yab",
+        "html_url": "https://github.com/yetanotherbrowser/yab",
+        "stars": 620,
+        "score": 4,
+        "reason": "快速轻量级的macOS浏览器"
+      },
+      {
+        "id": 1457813894,
+        "full_name": "hikaku-io/hikaku-extension",
+        "html_url": "https://github.com/hikaku-io/hikaku-extension",
+        "stars": 400,
+        "score": 4,
+        "reason": "AI内容检测工具"
+      }
+    ]
   }
 ]
