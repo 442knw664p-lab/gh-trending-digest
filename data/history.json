@@ -6288,5 +6288,20 @@
         "reason": "AI内容检测工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-18",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1459971684,
+        "full_name": "erkamyaman/rust-anything",
+        "html_url": "https://github.com/erkamyaman/rust-anything",
+        "stars": 2007,
+        "score": 4,
+        "reason": "Rust编写的文本编辑器"
+      }
+    ]
   }
 ]
