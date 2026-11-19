@@ -6303,5 +6303,76 @@
         "reason": "Rust编写的文本编辑器"
       }
     ]
+  },
+  {
+    "date": "2026-11-19",
+    "type": "daily",
+    "count": 8,
+    "repos": [
+      {
+        "id": 1460417668,
+        "full_name": "sybil-solutions/inference-optimisation-skill",
+        "html_url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+        "stars": 1167,
+        "score": 5,
+        "reason": "提升LLM推理效率"
+      },
+      {
+        "id": 1460835528,
+        "full_name": "replit/datacat",
+        "html_url": "https://github.com/replit/datacat",
+        "stars": 238,
+        "score": 5,
+        "reason": "可观察性工具"
+      },
+      {
+        "id": 1460149071,
+        "full_name": "chuanqisun/spaceship",
+        "html_url": "https://github.com/chuanqisun/spaceship",
+        "stars": 882,
+        "score": 4,
+        "reason": "实时创意引导"
+      },
+      {
+        "id": 1459700211,
+        "full_name": "siliconjungle/shapeshift-labs-ink-studio",
+        "html_url": "https://github.com/siliconjungle/shapeshift-labs-ink-studio",
+        "stars": 620,
+        "score": 4,
+        "reason": "像素艺术工具"
+      },
+      {
+        "id": 1459776570,
+        "full_name": "scarletkc/colab-playground",
+        "html_url": "https://github.com/scarletkc/colab-playground",
+        "stars": 282,
+        "score": 4,
+        "reason": "Colab桌面应用"
+      },
+      {
+        "id": 1460355257,
+        "full_name": "AnIT012/nihongo",
+        "html_url": "https://github.com/AnIT012/nihongo",
+        "stars": 254,
+        "score": 4,
+        "reason": "日语文本优化"
+      },
+      {
+        "id": 1460146046,
+        "full_name": "memoryswordsmanlaud/watson-username-footprint-finder",
+        "html_url": "https://github.com/memoryswordsmanlaud/watson-username-footprint-finder",
+        "stars": 239,
+        "score": 4,
+        "reason": "隐私追踪"
+      },
+      {
+        "id": 1460079213,
+        "full_name": "staryone/motlab",
+        "html_url": "https://github.com/staryone/motlab",
+        "stars": 198,
+        "score": 4,
+        "reason": "视频渲染工具"
+      }
+    ]
   }
 ]
