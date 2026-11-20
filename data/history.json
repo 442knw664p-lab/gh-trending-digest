@@ -6374,5 +6374,36 @@
         "reason": "视频渲染工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-20",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1461522454,
+        "full_name": "Lemxy/WinRust",
+        "html_url": "https://github.com/Lemxy/WinRust",
+        "stars": 513,
+        "score": 4,
+        "reason": "Windows外壳替代"
+      },
+      {
+        "id": 1461150218,
+        "full_name": "prusa3d/prusa-connect",
+        "html_url": "https://github.com/prusa3d/prusa-connect",
+        "stars": 261,
+        "score": 4,
+        "reason": "3D打印机服务器"
+      },
+      {
+        "id": 1461476363,
+        "full_name": "capllen/Subnook",
+        "html_url": "https://github.com/capllen/Subnook",
+        "stars": 177,
+        "score": 4,
+        "reason": "订阅管理应用"
+      }
+    ]
   }
 ]
