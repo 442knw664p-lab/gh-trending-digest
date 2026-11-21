@@ -6405,5 +6405,100 @@
         "reason": "订阅管理应用"
       }
     ]
+  },
+  {
+    "date": "2026-11-21",
+    "type": "daily",
+    "count": 11,
+    "repos": [
+      {
+        "id": 1464271688,
+        "full_name": "bookwjitchieni1986/blender-ai-mcp-addon",
+        "html_url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+        "stars": 1874,
+        "score": 4,
+        "reason": "支持多种AI模型，适用于Blender用户"
+      },
+      {
+        "id": 1463963309,
+        "full_name": "iamajmeena/neonclipping",
+        "html_url": "https://github.com/iamajmeena/neonclipping",
+        "stars": 1393,
+        "score": 4,
+        "reason": "快速生成短视频，支持本地处理"
+      },
+      {
+        "id": 1464704089,
+        "full_name": "umbra0688/windows-clipboard-manager-sync",
+        "html_url": "https://github.com/umbra0688/windows-clipboard-manager-sync",
+        "stars": 239,
+        "score": 4,
+        "reason": "提供剪贴板同步和智能管理功能"
+      },
+      {
+        "id": 1463683138,
+        "full_name": "INK-Q/agy-fast",
+        "html_url": "https://github.com/INK-Q/agy-fast",
+        "stars": 211,
+        "score": 4,
+        "reason": "优化LLM使用，提升开发效率"
+      },
+      {
+        "id": 1463927360,
+        "full_name": "heep-ai/restaurant-ai-skills",
+        "html_url": "https://github.com/heep-ai/restaurant-ai-skills",
+        "stars": 186,
+        "score": 4,
+        "reason": "针对餐厅的AI解决方案"
+      },
+      {
+        "id": 1465511622,
+        "full_name": "wozniakalan323-bit/opencode-project-workbench",
+        "html_url": "https://github.com/wozniakalan323-bit/opencode-project-workbench",
+        "stars": 153,
+        "score": 4,
+        "reason": "结构化项目工作流程"
+      },
+      {
+        "id": 1465485196,
+        "full_name": "prakashharapanahalli448-arch/marvel-rivals-calvion",
+        "html_url": "https://github.com/prakashharapanahalli448-arch/marvel-rivals-calvion",
+        "stars": 153,
+        "score": 4,
+        "reason": "提供游戏辅助功能"
+      },
+      {
+        "id": 1465545215,
+        "full_name": "enjinbdg/rustdesk-remote-workspace",
+        "html_url": "https://github.com/enjinbdg/rustdesk-remote-workspace",
+        "stars": 153,
+        "score": 4,
+        "reason": "提供远程桌面管理功能"
+      },
+      {
+        "id": 1465762713,
+        "full_name": "PasumarthiMohith/powertoys-focused-workspace",
+        "html_url": "https://github.com/PasumarthiMohith/powertoys-focused-workspace",
+        "stars": 153,
+        "score": 4,
+        "reason": "提供专注工作空间功能"
+      },
+      {
+        "id": 1464803273,
+        "full_name": "dporras543/zed-velvaora",
+        "html_url": "https://github.com/dporras543/zed-velvaora",
+        "stars": 153,
+        "score": 4,
+        "reason": "提供代码库管理工具"
+      },
+      {
+        "id": 1465474430,
+        "full_name": "nearviral-bit/distant-horizons-minecraft-visibility-workspace",
+        "html_url": "https://github.com/nearviral-bit/distant-horizons-minecraft-visibility-workspace",
+        "stars": 153,
+        "score": 4,
+        "reason": "扩展游戏视野，适合模组开发者"
+      }
+    ]
   }
 ]
