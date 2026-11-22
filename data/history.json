@@ -6500,5 +6500,20 @@
         "reason": "扩展游戏视野，适合模组开发者"
       }
     ]
+  },
+  {
+    "date": "2026-11-22",
+    "type": "daily",
+    "count": 1,
+    "repos": [
+      {
+        "id": 1464004445,
+        "full_name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+        "html_url": "https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+        "stars": 559,
+        "score": 4,
+        "reason": "人脸识别技术实用"
+      }
+    ]
   }
 ]
