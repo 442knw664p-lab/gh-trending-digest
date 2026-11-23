@@ -6515,5 +6515,164 @@
         "reason": "人脸识别技术实用"
       }
     ]
+  },
+  {
+    "date": "2026-11-23",
+    "type": "daily",
+    "count": 19,
+    "repos": [
+      {
+        "id": 1466635339,
+        "full_name": "EL4CTEO/fast-anything",
+        "html_url": "https://github.com/EL4CTEO/fast-anything",
+        "stars": 2409,
+        "score": 4,
+        "reason": "性能优化"
+      },
+      {
+        "id": 1465281397,
+        "full_name": "AFK-surf/xnulinux",
+        "html_url": "https://github.com/AFK-surf/xnulinux",
+        "stars": 483,
+        "score": 4,
+        "reason": "跨平台技术"
+      },
+      {
+        "id": 1464795219,
+        "full_name": "ThreatDefence/agentic-attack-detections",
+        "html_url": "https://github.com/ThreatDefence/agentic-attack-detections",
+        "stars": 464,
+        "score": 4,
+        "reason": "网络安全"
+      },
+      {
+        "id": 1466272233,
+        "full_name": "w01fb0ss/PiBot",
+        "html_url": "https://github.com/w01fb0ss/PiBot",
+        "stars": 452,
+        "score": 4,
+        "reason": "AI代理"
+      },
+      {
+        "id": 1466651861,
+        "full_name": "fernandeslokesh10/figma-desktop-win",
+        "html_url": "https://github.com/fernandeslokesh10/figma-desktop-win",
+        "stars": 440,
+        "score": 4,
+        "reason": "设计工具"
+      },
+      {
+        "id": 1466712561,
+        "full_name": "Jxue907/mathcad-prime-win",
+        "html_url": "https://github.com/Jxue907/mathcad-prime-win",
+        "stars": 440,
+        "score": 4,
+        "reason": "工程计算"
+      },
+      {
+        "id": 1466651781,
+        "full_name": "Shellsmall/mathway-premium-win",
+        "html_url": "https://github.com/Shellsmall/mathway-premium-win",
+        "stars": 438,
+        "score": 4,
+        "reason": "数学工具"
+      },
+      {
+        "id": 1466728634,
+        "full_name": "Nilespand/tableau-desktop-win",
+        "html_url": "https://github.com/Nilespand/tableau-desktop-win",
+        "stars": 438,
+        "score": 4,
+        "reason": "数据可视化"
+      },
+      {
+        "id": 1466720668,
+        "full_name": "monicaellis48/jetbrains-intellij-idea-win",
+        "html_url": "https://github.com/monicaellis48/jetbrains-intellij-idea-win",
+        "stars": 438,
+        "score": 4,
+        "reason": "Java开发"
+      },
+      {
+        "id": 1466691434,
+        "full_name": "Mnowak64/iobit-uninstaller-pro-win",
+        "html_url": "https://github.com/Mnowak64/iobit-uninstaller-pro-win",
+        "stars": 438,
+        "score": 4,
+        "reason": "软件卸载"
+      },
+      {
+        "id": 1466524228,
+        "full_name": "Mahmoudp06/serato-dj-suite-win",
+        "html_url": "https://github.com/Mahmoudp06/serato-dj-suite-win",
+        "stars": 437,
+        "score": 4,
+        "reason": "DJ软件"
+      },
+      {
+        "id": 1466418070,
+        "full_name": "cachedarknorth54/wolfram-alpha-pro-win",
+        "html_url": "https://github.com/cachedarknorth54/wolfram-alpha-pro-win",
+        "stars": 437,
+        "score": 4,
+        "reason": "计算引擎"
+      },
+      {
+        "id": 1466730390,
+        "full_name": "andrewpandey/total-commander-win",
+        "html_url": "https://github.com/andrewpandey/total-commander-win",
+        "stars": 437,
+        "score": 4,
+        "reason": "文件管理"
+      },
+      {
+        "id": 1466746527,
+        "full_name": "deep-patch-true/synchro-arts-revoice-pro-5-win",
+        "html_url": "https://github.com/deep-patch-true/synchro-arts-revoice-pro-5-win",
+        "stars": 436,
+        "score": 4,
+        "reason": "音频编辑"
+      },
+      {
+        "id": 1466712874,
+        "full_name": "Juanlabs1989/descript-pro-win",
+        "html_url": "https://github.com/Juanlabs1989/descript-pro-win",
+        "stars": 437,
+        "score": 4,
+        "reason": "视频编辑"
+      },
+      {
+        "id": 1466508483,
+        "full_name": "Jnikitin06/pioneer-dj-rekordbox-win",
+        "html_url": "https://github.com/Jnikitin06/pioneer-dj-rekordbox-win",
+        "stars": 435,
+        "score": 4,
+        "reason": "DJ软件"
+      },
+      {
+        "id": 1466659911,
+        "full_name": "birddebug/cinema-4d-win",
+        "html_url": "https://github.com/birddebug/cinema-4d-win",
+        "stars": 435,
+        "score": 4,
+        "reason": "3D建模"
+      },
+      {
+        "id": 1466679636,
+        "full_name": "Wojcik1999/rob-run-menu-win",
+        "html_url": "https://github.com/Wojcik1999/rob-run-menu-win",
+        "stars": 435,
+        "score": 4,
+        "reason": "桌面定制"
+      },
+      {
+        "id": 1466630865,
+        "full_name": "Joanegorov01/capture-one-pro-win",
+        "html_url": "https://github.com/Joanegorov01/capture-one-pro-win",
+        "stars": 433,
+        "score": 4,
+        "reason": "照片编辑"
+      }
+    ]
   }
 ]
