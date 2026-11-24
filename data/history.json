@@ -6674,5 +6674,36 @@
         "reason": "照片编辑"
       }
     ]
+  },
+  {
+    "date": "2026-11-24",
+    "type": "daily",
+    "count": 3,
+    "repos": [
+      {
+        "id": 1467769720,
+        "full_name": "erkamyaman/safe-anything",
+        "html_url": "https://github.com/erkamyaman/safe-anything",
+        "stars": 554,
+        "score": 5,
+        "reason": "漏洞扫描工具"
+      },
+      {
+        "id": 1467035512,
+        "full_name": "4lwayz/portwatch-vi",
+        "html_url": "https://github.com/4lwayz/portwatch-vi",
+        "stars": 1494,
+        "score": 4,
+        "reason": "追踪GTA VI运行状态"
+      },
+      {
+        "id": 1467880545,
+        "full_name": "Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "html_url": "https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop",
+        "stars": 346,
+        "score": 4,
+        "reason": "YouTube客户端工具"
+      }
+    ]
   }
 ]
