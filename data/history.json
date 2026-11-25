@@ -6705,5 +6705,100 @@
         "reason": "YouTube客户端工具"
       }
     ]
+  },
+  {
+    "date": "2026-11-25",
+    "type": "daily",
+    "count": 11,
+    "repos": [
+      {
+        "id": 1469329665,
+        "full_name": "Indigo-0167/universal-game-mod-manager",
+        "html_url": "https://github.com/Indigo-0167/universal-game-mod-manager",
+        "stars": 1185,
+        "score": 5,
+        "reason": "游戏开发者必备工具"
+      },
+      {
+        "id": 1467519193,
+        "full_name": "os6/nospeaker",
+        "html_url": "https://github.com/os6/nospeaker",
+        "stars": 1810,
+        "score": 4,
+        "reason": "实用的小工具，提升用户体验"
+      },
+      {
+        "id": 1469338376,
+        "full_name": "Umbra9179/clipboard-history-manager-windows",
+        "html_url": "https://github.com/Umbra9179/clipboard-history-manager-windows",
+        "stars": 1160,
+        "score": 4,
+        "reason": "提高剪贴板使用效率"
+      },
+      {
+        "id": 1469330932,
+        "full_name": "solv4626/steam-achievement-manager-windows",
+        "html_url": "https://github.com/solv4626/steam-achievement-manager-windows",
+        "stars": 1063,
+        "score": 4,
+        "reason": "游戏玩家实用工具"
+      },
+      {
+        "id": 1469337059,
+        "full_name": "zero5122/offline-file-converter-windows",
+        "html_url": "https://github.com/zero5122/offline-file-converter-windows",
+        "stars": 1059,
+        "score": 4,
+        "reason": "方便的文件转换工具"
+      },
+      {
+        "id": 1469332110,
+        "full_name": "kai415-debug/ffmpeg-video-audio-converter",
+        "html_url": "https://github.com/kai415-debug/ffmpeg-video-audio-converter",
+        "stars": 1024,
+        "score": 4,
+        "reason": "视频音频转换的便捷工具"
+      },
+      {
+        "id": 1469322189,
+        "full_name": "rowanbyte3329/stardew-valley-mod-manager",
+        "html_url": "https://github.com/rowanbyte3329/stardew-valley-mod-manager",
+        "stars": 871,
+        "score": 4,
+        "reason": "Stardew Valley玩家必备"
+      },
+      {
+        "id": 1469319174,
+        "full_name": "olive527/steam-library-manager-windows",
+        "html_url": "https://github.com/olive527/steam-library-manager-windows",
+        "stars": 722,
+        "score": 4,
+        "reason": "游戏库管理的好帮手"
+      },
+      {
+        "id": 1469333130,
+        "full_name": "Nebula4207/av1-video-encoder-gui",
+        "html_url": "https://github.com/Nebula4207/av1-video-encoder-gui",
+        "stars": 685,
+        "score": 4,
+        "reason": "视频编码的实用工具"
+      },
+      {
+        "id": 1469320737,
+        "full_name": "Basil0879/steam-game-idler",
+        "html_url": "https://github.com/Basil0879/steam-game-idler",
+        "stars": 682,
+        "score": 4,
+        "reason": "游戏自动化工具"
+      },
+      {
+        "id": 1469335791,
+        "full_name": "umbradev315/ffmpeg-video-audio-converter",
+        "html_url": "https://github.com/umbradev315/ffmpeg-video-audio-converter",
+        "stars": 554,
+        "score": 4,
+        "reason": "视频音频转换的便捷工具"
+      }
+    ]
   }
 ]
