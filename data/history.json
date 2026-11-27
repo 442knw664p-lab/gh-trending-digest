@@ -6855,5 +6855,28 @@
         "reason": "代码清理，提高代码质量"
       }
     ]
+  },
+  {
+    "date": "2026-11-27",
+    "type": "daily",
+    "count": 2,
+    "repos": [
+      {
+        "id": 1471624301,
+        "full_name": "nexu-io/opengame",
+        "html_url": "https://github.com/nexu-io/opengame",
+        "stars": 1640,
+        "score": 4,
+        "reason": "为AI游戏开发提供平台"
+      },
+      {
+        "id": 1473500322,
+        "full_name": "gary23w/f-ck_data_brokers",
+        "html_url": "https://github.com/gary23w/f-ck_data_brokers",
+        "stars": 480,
+        "score": 4,
+        "reason": "数据隐私保护工具"
+      }
+    ]
   }
 ]
